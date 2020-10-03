@@ -1,2 +1,2 @@
 # PyQt5-Apps
-Some simple PyQt5 applications
+A simple PyQt5 Calculator
